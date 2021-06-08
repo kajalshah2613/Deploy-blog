@@ -1,0 +1,151 @@
+
+header{
+	background-color: grey;
+	padding: 2px;
+}
+
+
+
+li{
+	display: inline;
+	margin: 70px;
+}
+
+li a{
+	color: black;
+	text-decoration: none;
+	margin-bottom: 200px;
+	font-family: 'PT Sans', sans-serif;
+
+}
+
+
+li a:hover{
+	color: purple;
+	text-decoration: none;
+}
+
+.logo{
+	width: 20px;
+}
+
+
+h1{
+	color: rebeccapurple;
+	font-family:'PT Sans', sans-serif ;
+	text-align: center;
+	background-color: lightpink;
+	padding-bottom: 12px;
+}
+
+hr{
+	border: 2px solid black;
+	width: 85%;
+}
+
+.img-food{
+	width: 1500px;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+}
+
+.para-one{
+	font-family:'PT Sans', sans-serif ;
+	margin-left: 150px;
+	margin-right: 800px;
+	margin-top: 20px;
+	width: 1100px;
+	padding: 10px;
+	border: 5px solid black;
+}
+
+.veg-thali{
+	margin-left: 200px;
+}
+
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin-left: 200px;
+
+}
+
+.pizza{
+	margin-left: 650px;
+
+}
+
+.pizza-desc{
+	margin-left: 650px;
+}
+
+.italian{
+	width: 500px;
+	margin-left: 150px;
+}
+
+.indian{
+	width: 500px;
+	height: 450px;
+	margin-left: 450px;
+}
+
+hr{
+	border: 2px solid black;
+	width: 100%;
+}
+
+h2{
+	text-align: center;
+	text-decoration: underline;
+	font-family:'PT Sans', sans-serif ;
+}
+
+.about-us{
+  background-color: lightgrey;
+  width: 400px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 450px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+textarea{
+	width: 20%;
+	height: 500px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border-radius: 2px;
+	background-color: pink;
+	font-size: 15px;
+	resize: none;
+	position: static
+}
+
+.pasta{
+	width: 500px;
+	margin-bottom: 100px;
+}
+
+.snacks{
+	width: 500px;
+}
+
+
+
+footer{
+	background-color: dimgrey;
+	color: black;
+	padding: 2px;
+	text-align: center;
+
+}
